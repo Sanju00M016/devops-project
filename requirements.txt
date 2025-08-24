@@ -1,0 +1,6 @@
+flask
+python-dotenv
+fastapi
+jsonify
+uvicorn
+prometheus_client
